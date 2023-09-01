@@ -10,10 +10,6 @@ Primeiramente, foi realizado um trabalho de limpeza no dataset para garantir que
 
 Nesta seção, examinamos como os preços médios dos carros variam ao longo do ano de 2022. Gráficos e análises temporais são fornecidos para identificar tendências e padrões significativos.
 
-## Flutuações Sazonais
-
-Aqui, exploramos as flutuações nos preços dos carros em relação a fatores sazonais, como feriados, festivais e outras variações sazonais que podem afetar os preços médios.
-
 ## As 10 Principais Marcas e Modelos de Automóveis com Preços Médios Mais Altos
 
 Esta seção destaca as 10 principais marcas e modelos de automóveis que apresentam os preços médios mais altos em 2022. Essa análise fornece insights sobre as preferências dos consumidores e a segmentação de mercado.
